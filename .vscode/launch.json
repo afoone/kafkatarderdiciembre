@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProducerStock",
+            "request": "launch",
+            "mainClass": "ProducerStock",
+            "projectName": "2019kafkatardes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Consumer",
+            "request": "launch",
+            "mainClass": "Consumer",
+            "projectName": "2019kafkatardes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Producer",
+            "request": "launch",
+            "mainClass": "Producer",
+            "projectName": "2019kafkatardes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "2019kafkatardes"
+        }
+    ]
+}
